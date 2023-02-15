@@ -1,0 +1,3 @@
+﻿interface ICreateNewsOutput {
+    resultMessage: string;
+}

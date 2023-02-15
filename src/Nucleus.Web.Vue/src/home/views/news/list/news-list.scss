@@ -1,0 +1,15 @@
+﻿.news-item {
+    border-style: double; /* Стиль линии вокруг параграфа */
+    padding: 5px; /* Поля вокруг текста */
+}
+
+.description {
+    margin-left: 20px;
+}
+
+hr {
+    border: none; /* Убираем границу */
+    background-color: gray; /* Цвет линии */
+    color: red; /* Цвет линии для IE6-7 */
+    height: 2px; /* Толщина линии */
+}
